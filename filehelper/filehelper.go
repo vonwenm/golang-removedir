@@ -13,6 +13,7 @@ func Exists(path string) bool {
     return false
 }
 
+// remove directory
 func RemoveDir(path string) bool {
 
       err := os.RemoveAll(path)
