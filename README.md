@@ -7,4 +7,4 @@
 
 ###### 1-please download & install golang 
 ###### 2-get source
-###### 3-go install github.com/alirajabi/golang/removedir
+###### 3-go install github.com/alirajabi/golang-removedir
