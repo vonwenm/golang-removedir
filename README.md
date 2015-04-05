@@ -1,4 +1,4 @@
-# golang-deletepath
+# golang-removedir
 #### It is my first golang code.
 ###### It Delete a Directory.
 ###### It is usefull for directories that have huge files
