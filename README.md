@@ -1,2 +1,5 @@
 # golang-deletepath
-Delete a path in golang , it is usefull for huge files and directory , 
+It is my first golang code.
+Delete a Directory in golang.
+It is usefull for huge files and directory
+
